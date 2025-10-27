@@ -1,1 +1,1 @@
-![[Pasted image 20251027230641.png]]
+![](images/penguins.png)

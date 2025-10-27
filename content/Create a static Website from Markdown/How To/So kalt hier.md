@@ -1,1 +1,3 @@
 ![](images/penguins.png)
+
+Es ist wirklich kalt hier in der Antarktis. Die Pinguine haben dicke Federn, um sich warm zu halten. Trotzdem frieren sie manchmal, besonders wenn der Wind stark weht. Aber sie sind an die Kälte gewöhnt und können gut damit umgehen. Manchmal kuscheln sie sich zusammen, um sich gegenseitig zu wärmen. Es ist faszinierend zu sehen, wie diese Tiere in einer so extremen Umgebung überleben können.
